@@ -147,6 +147,7 @@ h3 {
 .testimonial-grid {
   display: grid;
   gap: 1.5rem;
+  grid-auto-columns: 1fr;
   grid-template-areas: 
   'one'
   'two'
